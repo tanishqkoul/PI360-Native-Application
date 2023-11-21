@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685964264450",
+    "project_id": "pi360-7b1e8",
+    "storage_bucket": "pi360-7b1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685964264450:android:67aa0c4039eba9f631131b",
+        "android_client_info": {
+          "package_name": "com.pi360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685964264450-gac0qenfen48ohb7s2bqstbq6lgkhpn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pi360",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "685964264450-bs5hvpe981bj828conqk992mb5u8sjf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMjeRjGz09gWsy4_4tCngIg2jAwRk2sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685964264450-3vfmnj4v539v96smaeso6ge0779m680u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
