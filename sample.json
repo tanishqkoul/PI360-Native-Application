@@ -1,0 +1,605 @@
+"response_code": "200",
+"message": "Success",
+"content": [
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "3",
+            "Project_Title": "Building a scalable and performant E-Mail Archival Solution on HP-UX platform",
+            "Project_Status": "Completed",
+            "Started_On": "2006-01-02",
+            "Ended_On": "2006-07-03"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "4",
+            "Project_Title": "Smart Problem Analyzer",
+            "Project_Status": "Completed",
+            "Started_On": "2007-01-01",
+            "Ended_On": "2007-07-02"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "1",
+            "Project_Title": "Cross-Organizational Peer-to-Peer Networks",
+            "Project_Status": "Completed",
+            "Started_On": "2008-09-15",
+            "Ended_On": "2012-07-05"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE"
+        },
+        "Patent_Details": {
+            "Code": "5",
+            "Project_Title": "Research Nation",
+            "Project_Status": "Completed",
+            "Started_On": "2011-01-01",
+            "Ended_On": "2011-03-01"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Sakeat Gandotra*,Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "ECE,EE"
+        },
+        "Patent_Details": {
+            "Code": "2",
+            "Project_Title": "Self charging of mobile phones.",
+            "Project_Status": "In-progress",
+            "Started_On": "2011-12-03",
+            "Ended_On": "2012-12-01"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Shiv Kumar Sharma,Ms. Minakshi Khushoo*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "6",
+            "Project_Title": "Setting up of Mobile Computing Lab",
+            "Project_Status": "Completed",
+            "Started_On": "2012-10-01",
+            "Ended_On": "2013-02-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "7",
+            "Project_Title": "Computing Infrastructure Creation under FIST-DST",
+            "Project_Status": "In-progress",
+            "Started_On": "2012-12-03",
+            "Ended_On": "2014-12-01"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA,CSE"
+        },
+        "Patent_Details": {
+            "Code": "12",
+            "Project_Title": "Student Module of PI-360",
+            "Project_Status": "Completed",
+            "Started_On": "2014-01-01",
+            "Ended_On": "2014-06-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney,Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA,CSE,CSE"
+        },
+        "Patent_Details": {
+            "Code": "14",
+            "Project_Title": "JKEDU - the online portal for education in J&K",
+            "Project_Status": "Completed",
+            "Started_On": "2014-03-01",
+            "Ended_On": "2014-11-04"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney,Mr. Rohit Raina*,Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "16",
+            "Project_Title": "Silent-Zone",
+            "Project_Status": "Completed",
+            "Started_On": "2014-08-01",
+            "Ended_On": "2014-09-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "15",
+            "Project_Title": "MIET Mobile App",
+            "Project_Status": "Completed",
+            "Started_On": "2014-08-18",
+            "Ended_On": "2014-11-01"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE,EE"
+        },
+        "Patent_Details": {
+            "Code": "18",
+            "Project_Title": "Coreless single phase autotransformer",
+            "Project_Status": "In-progress",
+            "Started_On": "2015-08-01",
+            "Ended_On": "2017-06-10"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Nitin Langer*,Ms. Monika Balgotra*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE"
+        },
+        "Patent_Details": {
+            "Code": "19",
+            "Project_Title": "Static Sun Tracker",
+            "Project_Status": "In-progress",
+            "Started_On": "2015-08-11",
+            "Ended_On": "2017-06-06"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Nitin Langer*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "17",
+            "Project_Title": "The Education Facebook: A Community Network for Higher Education in J&K",
+            "Project_Status": "Completed",
+            "Started_On": "2015-10-13",
+            "Ended_On": "2015-10-13"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE,EE,EE"
+        },
+        "Patent_Details": {
+            "Code": "20",
+            "Project_Title": "Electric Shock Protection against insulation failures in domestic appliances",
+            "Project_Status": "In-progress",
+            "Started_On": "2016-08-10",
+            "Ended_On": "2017-06-02"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Nand K Gupta*,Dr. Nitin Langer*,Ms. Amarjeet Chopra*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE,EE,EE"
+        },
+        "Patent_Details": {
+            "Code": "21",
+            "Project_Title": "Three phase to single phase conversion",
+            "Project_Status": "In-progress",
+            "Started_On": "2016-08-10",
+            "Ended_On": "2017-05-25"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Amit Mehta*,Mr. Nand K Gupta*,Dr. Nitin Langer*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "22",
+            "Project_Title": "SECURE DOCUMENT ISSUING SYSTEM",
+            "Project_Status": "In-progress",
+            "Started_On": "2017-05-01",
+            "Ended_On": "2017-08-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "23",
+            "Project_Title": "Message Authenticity System",
+            "Project_Status": "In-progress",
+            "Started_On": "2017-05-01",
+            "Ended_On": "2017-08-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "24",
+            "Project_Title": "Gnosis Knowledge Management",
+            "Project_Status": "In-progress",
+            "Started_On": "2017-05-01",
+            "Ended_On": "2017-08-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE"
+        },
+        "Patent_Details": {
+            "Code": "25",
+            "Project_Title": "Super position theorem",
+            "Project_Status": "Completed",
+            "Started_On": "2018-05-17",
+            "Ended_On": "2018-05-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Nitin Langer*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "EE"
+        },
+        "Patent_Details": {
+            "Code": "26",
+            "Project_Title": "Home automation system",
+            "Project_Status": "Completed",
+            "Started_On": "2018-07-11",
+            "Ended_On": "2018-12-10"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Nitin Langer*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "27",
+            "Project_Title": "Advanced Secure Messaging Application",
+            "Project_Status": "In-progress",
+            "Started_On": "2018-08-01",
+            "Ended_On": "2019-04-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "28",
+            "Project_Title": "Driver Drowsiness Detection System",
+            "Project_Status": "In-progress",
+            "Started_On": "2018-08-01",
+            "Ended_On": "2019-04-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "29",
+            "Project_Title": "Resource Reservation System",
+            "Project_Status": "In-progress",
+            "Started_On": "2018-08-01",
+            "Ended_On": "2019-04-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,CSE,CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "30",
+            "Project_Title": "Image Based Asset Management System",
+            "Project_Status": "In-progress",
+            "Started_On": "2018-08-01",
+            "Ended_On": "2019-04-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta,Mr. Rishi Gupta*,Mr. Purnendu Prabhat*,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA,CSE,CSE,CSE"
+        },
+        "Patent_Details": {
+            "Code": "31",
+            "Project_Title": "Blockchain Based Land Revenue Record Management",
+            "Project_Status": "Completed",
+            "Started_On": "2018-08-01",
+            "Ended_On": "2019-04-30"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney,Mr. Purnendu Prabhat*,Mr. Rishi Gupta*,Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "32",
+            "Project_Title": "The Smart-City Nerve Center",
+            "Project_Status": "In-progress",
+            "Started_On": "2019-01-04",
+            "Ended_On": "2019-12-31"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "33",
+            "Project_Title": "STTP on Foundations of Artificial Intelligence and Deep Learning",
+            "Project_Status": "In-progress",
+            "Started_On": "2020-08-10",
+            "Ended_On": "2021-03-31"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Ankur Gupta"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA"
+        },
+        "Patent_Details": {
+            "Code": "34",
+            "Project_Title": "Strategic Planning in Higher Education Institutions: Issues, Tools and Techniques",
+            "Project_Status": "In-progress",
+            "Started_On": "2020-09-15",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA"
+        },
+        "Patent_Details": {
+            "Code": "37",
+            "Project_Title": "AICTE-Scheme for Promoting Interests, Creativity and Ethics among Students (SPICES)",
+            "Project_Status": "Completed",
+            "Started_On": "2021-05-12",
+            "Ended_On": "2022-05-10"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "36",
+            "Project_Title": "AR\/VR\/XR Lab at MIET",
+            "Project_Status": "In-progress",
+            "Started_On": "2021-09-10",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Anand Kumar Gupta*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA,MBA"
+        },
+        "Patent_Details": {
+            "Code": "39",
+            "Project_Title": "Review of Entrepreneurial Ecosystem in Jammu and Kashmir: Economic Impact, Challenges, and Strategies for Development",
+            "Project_Status": "In-progress",
+            "Started_On": "2021-10-06",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney,Dr. Ankita Nanda"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "AS"
+        },
+        "Patent_Details": {
+            "Code": "38",
+            "Project_Title": "Mentor- Mentee Scheme for IIC institutions 2021-22, MIC",
+            "Project_Status": "In-progress",
+            "Started_On": "2021-12-09",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Parveen Abrol*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE"
+        },
+        "Patent_Details": {
+            "Code": "43",
+            "Project_Title": "Self-Driving Autonomous Vehicles Simulation Setup Using DuckieTown",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-01",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Karan Khajuria"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MTECHCSE,CSE-AI-ML"
+        },
+        "Patent_Details": {
+            "Code": "47",
+            "Project_Title": "Design and Implementation of an Authenticated Document Issuing System",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-01",
+            "Ended_On": "2023-07-01"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Navin Mani Upadhyay,Dr. Arjun Puri*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CSE,MBA"
+        },
+        "Patent_Details": {
+            "Code": "50",
+            "Project_Title": "Design and Implementation of a Student-Data Authentication System",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-01",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Karan Khajuria,Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA,BCOM"
+        },
+        "Patent_Details": {
+            "Code": "42",
+            "Project_Title": "Effectiveness of Social Media Platforms for Employee Engagement",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-15",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Dr. Ankita Nanda,Ms. Gitika Sehgal*"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "MBA"
+        },
+        "Patent_Details": {
+            "Code": "51",
+            "Project_Title": "Survey on Research and Innovation in J&K",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-15",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Sahil Sawhney"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CIVIL,CIVIL"
+        },
+        "Patent_Details": {
+            "Code": "48",
+            "Project_Title": "Seed Grant- Stadium Style Seating using Stone Mesh Blocks",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-01-23",
+            "Ended_On": "0000-00-00"
+        },
+        "Inventor_Details": {
+            "Inventor": "Mr. Muzafar Ahmad Ganie,Mr. Abhishek Chandra"
+        }
+    },
+    {
+        "Departments_Involved": {
+            "Department": "CIVIL"
+        },
+        "Patent_Details": {
+            "Code": "46",
+            "Project_Title": "Rainwater Harvesting -Phase-II",
+            "Project_Status": "In-progress",
+            "Started_On": "2023-02-15",
+            "Ended_On": "2023-02-15"
+        },
+        "Inventor_Details": {
+            "Inventor": "Prof. Dr. Arvind Dewangan"
+        }
+    }
+]
+}
